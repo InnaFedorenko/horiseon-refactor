@@ -75,7 +75,7 @@ nav ul li {
     float: right;
     margin-left: 25px;
 }
-.content li h2 {
+.content li h1 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -93,7 +93,7 @@ nav ul li {
     margin-bottom: 32px;
     color: #ffffff;    
 }
-.benefits li h3 {
+.benefits li h1 {
     margin-bottom: 10px;
     text-align: center;
 }
